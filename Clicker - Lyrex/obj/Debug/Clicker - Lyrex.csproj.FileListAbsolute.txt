@@ -1,0 +1,10 @@
+L:\C#\Auto Clicker\Clicker - Lyrex\Clicker - Lyrex\obj\Debug\Clicker - Lyrex.csproj.AssemblyReference.cache
+L:\C#\Auto Clicker\Clicker - Lyrex\Clicker - Lyrex\obj\Debug\Clicker___Lyrex.Form1.resources
+L:\C#\Auto Clicker\Clicker - Lyrex\Clicker - Lyrex\obj\Debug\Clicker___Lyrex.Properties.Resources.resources
+L:\C#\Auto Clicker\Clicker - Lyrex\Clicker - Lyrex\obj\Debug\Clicker - Lyrex.csproj.GenerateResource.cache
+L:\C#\Auto Clicker\Clicker - Lyrex\Clicker - Lyrex\obj\Debug\Clicker - Lyrex.csproj.CoreCompileInputs.cache
+L:\C#\Auto Clicker\Clicker - Lyrex\Clicker - Lyrex\bin\Debug\Clicker - Lyrex.exe.config
+L:\C#\Auto Clicker\Clicker - Lyrex\Clicker - Lyrex\bin\Debug\Clicker - Lyrex.exe
+L:\C#\Auto Clicker\Clicker - Lyrex\Clicker - Lyrex\bin\Debug\Clicker - Lyrex.pdb
+L:\C#\Auto Clicker\Clicker - Lyrex\Clicker - Lyrex\obj\Debug\Clicker - Lyrex.exe
+L:\C#\Auto Clicker\Clicker - Lyrex\Clicker - Lyrex\obj\Debug\Clicker - Lyrex.pdb
